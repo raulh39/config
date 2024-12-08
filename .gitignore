@@ -1,5 +1,8 @@
 *
 !.gitignore
 !wezterm
+!wezterm/*
 !zellij
+!zellij/*
 !nvim
+!nvim/*
