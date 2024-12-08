@@ -1,13 +1,13 @@
 *
 !.gitignore
 !wezterm
-!wezterm/*
+!wezterm/**
 !zellij
-!zellij/*
+!zellij/**
 !nvim
 !nvim/*
 !alacritty
-!alacritty/*
+!alacritty/**
 !README.md
 !git
-!git/*
+!git/**
