@@ -12,7 +12,8 @@
 
 [shell]
   program = "zellij"
-  args = [ "attach", "-c", "FatNFurious", ]
+  args = [ "-l", "welcome", ]
+#  args = [ "attach", "-c", "FatNFurious", ]
 #  program = "ssh"
 #  args = [ "instalador@192.168.122.25", "-t", ".local/bin/zellij", "attach", "-c", "Virtual", ]
 
