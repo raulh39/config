@@ -1,0 +1,18 @@
+[font]
+  size=12
+  normal={ family = "JetBrainsMono Nerd Font Mono", style = "Regular" }
+
+[window]
+  #title="3drenv"
+  opacity=0.9
+  startup_mode = "Maximized"
+
+[selection]
+  save_to_clipboard = true
+
+[shell]
+  program = "zellij"
+  args = [ "attach", "-c", "FatNFurious", ]
+#  program = "ssh"
+#  args = [ "instalador@192.168.122.25", "-t", ".local/bin/zellij", "attach", "-c", "Virtual", ]
+
