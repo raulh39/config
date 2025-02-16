@@ -5,12 +5,15 @@
 [window]
   #title="3drenv"
   opacity=0.9
-  startup_mode = "Maximized"
+#startup_mode = "Maximized"
+  dimensions = { columns = 200, lines = 60 }
 
 [selection]
   save_to_clipboard = true
 
-[shell]
+[terminal]
+
+[terminal.shell]
   program = "zellij"
   args = [ "-l", "welcome", ]
 #  args = [ "attach", "-c", "FatNFurious", ]
