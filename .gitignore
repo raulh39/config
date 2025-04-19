@@ -1,14 +1,23 @@
-*
-!.gitignore
-!wezterm
-!wezterm/**
-!zellij
-!zellij/**
-!nvim
-!nvim/*
-!alacritty
-!alacritty/**
-!README.md
-!git
-!git/**
-!vscode*
+Code/Cache/Cache_Data
+Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957/chrome
+Code/CachedExtensionVSIXs
+Code/CachedProfilesData/__default__profile__
+Code/Code Cache
+Code/Crashpad
+Code/DawnGraphiteCache
+Code/DawnWebGPUCache
+Code/Dictionaries
+Code/GPUCache
+Code/Local Storage/leveldb
+Code/Service Worker
+Code/Session Storage
+Code/Shared Dictionary
+Code/User/History
+Code/User/globalStorage
+Code/User/workspaceStorage/1745059941022
+Code/WebStorage
+Code/logs
+KDE/UserFeedback.org.kde.plasma-welcome.conf
+xdg-desktop-portal-kderc
+user-dirs.locale
+powermanagementprofilesrc

@@ -1,0 +1,4 @@
+
+[Default Applications]
+application/x-rpm=/usr/share/applications/nobara-rpm-installer.desktop
+application/x-src+rpm=/usr/share/applications/org.kde.ark.desktop

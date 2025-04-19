@@ -1,0 +1,32 @@
+[Configuración SSH][devenv]
+hostname=localhost
+identifier=devenv
+importedFromSshConfig=true
+port=3000
+profileName=Integrado
+sshkey=
+useSshConfig=true
+username=raul
+
+[Configuración SSH][linux_curro]
+hostname=hu-rhuertas-ams
+identifier=linux_curro
+importedFromSshConfig=true
+port=
+profileName=Integrado
+sshkey=
+useSshConfig=true
+username=rhuertas
+
+[Configuración SSH][mac_curro]
+hostname=10.132.245.122
+identifier=mac_curro
+importedFromSshConfig=true
+port=
+profileName=Integrado
+sshkey=
+useSshConfig=true
+username=rhuertas
+
+[Global plugin config]
+manageProfile=false

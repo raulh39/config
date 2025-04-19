@@ -1,0 +1,11 @@
+[449aa375-c6e3-41e9-bfe2-1eee07efdf5e]
+Description=Preferencias para org.mozilla.firefox
+size=2000,1250
+sizerule=3
+types=1
+wmclass=org.mozilla.firefox
+wmclassmatch=1
+
+[General]
+count=1
+rules=449aa375-c6e3-41e9-bfe2-1eee07efdf5e
