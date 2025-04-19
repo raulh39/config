@@ -1,0 +1,16 @@
+alias ls='ls --color'
+alias ll='ls -l --color'
+alias gs='git status'
+alias go='git switch'
+alias gss='git submodule foreach --recursive git status'
+alias bat='bat --wrap=never'
+alias cat='bat --style=plain --wrap=never'
+alias fd=fdfind
+alias n='nvim'
+alias cdf='cd $(find * -type d | fzf)'
+alias lg=lazygit
+alias pf="fzf --preview='batcat --color=always {}' --bind shift-up:preview-page-up,shift-down:preview-page-down"
+alias ts='date +"%Y-%m-%d_%H_%M_%S"'
+alias r='cd $HOME/Repositories'
+alias q='cd $HOME/Repositories/qualcomm'
+alias m='cd $HOME/Repositories/qualcomm/monorepo'

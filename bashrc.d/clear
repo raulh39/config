@@ -1,0 +1,3 @@
+clear() { zellij action clear; }
+reset() { zellij action clear; }
+c() { zellij action clear; }
