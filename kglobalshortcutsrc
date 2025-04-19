@@ -3,9 +3,9 @@ _k_friendly_name=Gestor de actividades
 switch-to-activity-df0550b7-8c38-4051-94b5-7464d9d8ebbd=none,none,Cambiar a la actividad «Por omisión»
 
 [KDE Keyboard Layout Switcher]
-Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,
-Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,
-_k_friendly_name=Selector de distribución del teclado
+Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Cambiar a la última distribución de teclado usada
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Cambiar a la siguiente distribución de teclado
+_k_friendly_name=Selector de distribución de teclado
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Activar o desactivar el lector de pantalla
@@ -86,9 +86,9 @@ Switch to Desktop 6=,,Cambiar al escritorio 6
 Switch to Desktop 7=,,Cambiar al escritorio 7
 Switch to Desktop 8=,,Cambiar al escritorio 8
 Switch to Desktop 9=,,Cambiar al escritorio 9
-Switch to Next Desktop=,,Cambiar al siguiente escritorio
+Switch to Next Desktop=Meta+Right,,Cambiar al siguiente escritorio
 Switch to Next Screen=,,Cambiar a la siguiente pantalla
-Switch to Previous Desktop=,,Cambiar al escritorio anterior
+Switch to Previous Desktop=Meta+Left,,Cambiar al escritorio anterior
 Switch to Previous Screen=,,Cambiar a la pantalla anterior
 Switch to Screen 0=,,Cambiar a la pantalla 0
 Switch to Screen 1=,,Cambiar a la pantalla 1
@@ -144,12 +144,12 @@ Window Pack Down=,,Mover la ventana abajo
 Window Pack Left=,,Mover la ventana a la izquierda
 Window Pack Right=,,Mover la ventana a la derecha
 Window Pack Up=,,Mover la ventana arriba
-Window Quick Tile Bottom=Meta+Down,Meta+Down,Situar la ventana en mosaico en la parte inferior
+Window Quick Tile Bottom=none,Meta+Down,Situar la ventana en mosaico en la parte inferior
 Window Quick Tile Bottom Left=,,Situar la ventana en mosaico en la parte inferior izquierda
 Window Quick Tile Bottom Right=,,Situar la ventana en mosaico en la parte inferior derecha
-Window Quick Tile Left=Meta+Left,Meta+Left,Situar la ventana en mosaico a la izquierda
-Window Quick Tile Right=Meta+Right,Meta+Right,Situar la ventana en mosaico a la derecha
-Window Quick Tile Top=Meta+Up,Meta+Up,Situar la ventana en mosaico en la parte superior
+Window Quick Tile Left=none,Meta+Left,Situar la ventana en mosaico a la izquierda
+Window Quick Tile Right=none,Meta+Right,Situar la ventana en mosaico a la derecha
+Window Quick Tile Top=none,Meta+Up,Situar la ventana en mosaico en la parte superior
 Window Quick Tile Top Left=,,Situar la ventana en mosaico en la parte superior izquierda
 Window Quick Tile Top Right=,,Situar la ventana en mosaico en la parte superior derecha
 Window Raise=,,Mover la ventana hacia adelante
