@@ -1,4 +1,51 @@
 {
+    "[cpp]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+    },
+    "bookmarks.saveBookmarksInProject": true,
+    "bookmarks.sideBar.expanded": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/../build",
+        "--background-index"
+    ],
+    "clangd.checkUpdates": true,
+    "clangd.detectExtensionConflicts": true,
+    "clangd.enable": true,
+    "clangd.enableCodeCompletion": true,
+    "clangd.enableHover": true,
+    "clangd.fallbackFlags": [],
+    "clangd.inactiveRegions.opacity": 0.55,
+    "clangd.inactiveRegions.useBackgroundHighlight": true,
+    "clangd.onConfigChanged": "prompt",
+    // "clangd.path": "clangd",
+    "clangd.restartAfterCrash": true,
+    "clangd.serverCompletionRanking": true,
+    "clangd.trace": "",
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "easy-codesnap.realLineNumbers": true,
+    "easy-codesnap.saveFormat": "png",
+    "easy-codesnap.saveScale": 2,
+    "easy-codesnap.showWindowControls": false,
+    "easy-codesnap.showWindowTitle": false,
+    "easy-codesnap.shutterAction": "copy",
+    "easy-codesnap.target": "window",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "git.blame.editorDecoration.enabled": true,
+    "git.blame.editorDecoration.template": "// git-blame: ${subject}",
+    "git.blame.statusBarItem.enabled": true,
+    "git.blame.statusBarItem.template": "${authorName} (${authorDateAgo})",
+    "git.openRepositoryInParentFolders": "never",
+    "window.autoDetectColorScheme": true,
     "workbench.colorTheme": "Default Light Modern",
-    "security.workspace.trust.untrustedFiles": "open"
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.openPositioning": "last",
+    "workbench.editor.restoreViewState": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none"
 }
