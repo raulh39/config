@@ -1,0 +1,12 @@
+code --force --install-extension acarreiro.calculate
+code --force --install-extension albymor.increment-selection
+code --force --install-extension fr43nk.seito-openfile
+code --force --install-extension guyutongxue.cpp-reference
+code --force --install-extension llvm-vs-code-extensions.lldb-dap
+code --force --install-extension llvm-vs-code-extensions.vscode-clangd
+code --force --install-extension ms-vscode.cmake-tools
+code --force --install-extension ms-vscode.cpptools
+code --force --install-extension twxs.cmake
+code --force --install-extension tyriar.sort-lines
+code --force --install-extension xaver.clang-format
+
