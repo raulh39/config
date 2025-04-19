@@ -1,0 +1,16 @@
+[
+    { "key": "alt+p",    "command": "-keybindings.editor.toggleSortByPrecedence", "when": "inKeybindings" },
+    { "key": "alt+p",    "command": "-togglePreserveCase",                        "when": "editorFocus" },
+    { "key": "alt+p",    "command": "-toggleSearchPreserveCase",                  "when": "searchViewletFocus" },
+    { "key": "ctrl+m",   "command": "-editor.action.toggleTabFocusMode" },
+    { "key": "ctrl+m",   "command": "workbench.action.toggleMaximizedPanel",      "when": "panelAlignment == 'center' || panelPosition != 'bottom' && panelPosition != 'top'" },
+    { "key": "ctrl+j",   "command": "-workbench.action.togglePanel" },
+    { "key": "alt+b",    "command": "workbench.action.togglePanel" },
+    { "key": "ctrl+j",   "command": "editor.action.joinLines",                    "when": "editorTextFocus && !editorReadonly" },
+    { "key": "f7",       "command": "-editor.action.accessibleDiffViewer.next",   "when": "isInDiffEditor" },
+    { "key": "f7",       "command": "-chatEditor.action.showAccessibleDiffView",  "when": "chatEdits.hasEditorModifications && editorFocus && !chatEdits.isRequestInProgress" },
+    { "key": "f7",       "command": "-editor.action.wordHighlight.next",          "when": "editorTextFocus && hasWordHighlights" },
+    { "key": "f7",       "command": "-inlineChat.moveToNextHunk",                 "when": "inlineChatHasProvider && inlineChatVisible" },
+    { "key": "shift+f7", "command": "-editor.action.accessibleDiffViewer.prev",   "when": "isInDiffEditor" },
+    { "key": "shift+f7", "command": "-inlineChat.moveToPreviousHunk",             "when": "inlineChatHasProvider && inlineChatVisible" }
+]
