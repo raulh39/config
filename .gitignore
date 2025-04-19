@@ -21,3 +21,17 @@ KDE/UserFeedback.org.kde.plasma-welcome.conf
 xdg-desktop-portal-kderc
 user-dirs.locale
 powermanagementprofilesrc
+Code/Cookies
+Code/Cookies-journal
+Code/Network Persistent State
+Code/Preferences
+Code/SharedStorage
+Code/SharedStorage-wal
+Code/TransportSecurity
+Code/Trust Tokens
+Code/Trust Tokens-journal
+Code/code.lock
+Code/languagepacks.json
+Code/machineid
+libaccounts-glib
+pulse/cookie
