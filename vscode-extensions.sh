@@ -6,7 +6,6 @@ code --force --install-extension llvm-vs-code-extensions.lldb-dap
 code --force --install-extension llvm-vs-code-extensions.vscode-clangd
 code --force --install-extension ms-vscode.cmake-tools
 code --force --install-extension ms-vscode.cpptools
-code --force --install-extension twxs.cmake
 code --force --install-extension tyriar.sort-lines
 code --force --install-extension xaver.clang-format
 code --force --install-extension vscode-icons-team.vscode-icons
