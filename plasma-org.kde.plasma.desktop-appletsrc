@@ -154,7 +154,14 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][25][Configuration]
-PreloadWeight=55
+PreloadWeight=60
+
+[Containments][8][Applets][26]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
+[Containments][8][Applets][26][Configuration]
+PreloadWeight=42
 
 [Containments][8][Applets][9]
 immutability=1
