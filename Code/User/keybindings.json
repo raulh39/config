@@ -12,5 +12,19 @@
     { "key": "f7",       "command": "-editor.action.wordHighlight.next",          "when": "editorTextFocus && hasWordHighlights" },
     { "key": "f7",       "command": "-inlineChat.moveToNextHunk",                 "when": "inlineChatHasProvider && inlineChatVisible" },
     { "key": "shift+f7", "command": "-editor.action.accessibleDiffViewer.prev",   "when": "isInDiffEditor" },
-    { "key": "shift+f7", "command": "-inlineChat.moveToPreviousHunk",             "when": "inlineChatHasProvider && inlineChatVisible" }
+    {
+        "key": "shift+f7",
+        "command": "-inlineChat.moveToPreviousHunk",
+        "when": "inlineChatHasProvider && inlineChatVisible"
+    },
+    {
+        "key": "f9",
+        "command": "editor.debug.action.toggleBreakpoint",
+        "when": "disassemblyViewFocus || editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "-editor.debug.action.toggleBreakpoint",
+        "when": "debuggersAvailable && disassemblyViewFocus || debuggersAvailable && editorTextFocus"
+    }
 ]
