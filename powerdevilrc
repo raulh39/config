@@ -1,2 +1,6 @@
 [AC][SuspendAndShutdown]
 AutoSuspendAction=0
+
+[Activities][aba92453-2387-4856-bf27-1fba02f1ae6a]
+InhibitScreenManagement=false
+InhibitSuspend=false
