@@ -1,5 +1,6 @@
 [ActivityManager]
-_k_friendly_name=Gestor de actividades
+_k_friendly_name=Preferencias del sistema
+switch-to-activity-aba92453-2387-4856-bf27-1fba02f1ae6a=,none,Cambiar a la actividad «Temp»
 switch-to-activity-df0550b7-8c38-4051-94b5-7464d9d8ebbd=none,none,Cambiar a la actividad «Por omisión»
 
 [KDE Keyboard Layout Switcher]
@@ -247,5 +248,5 @@ show-barcode=,,Mostrar código de barras...
 show-on-mouse-pos=Meta+V\tMeta+Alt+V,Meta+V,Mostrar elementos del portapapeles en la posición del ratón
 stop current activity=Meta+S,Meta+S,Detener la actividad actual
 switch to next activity=,,Cambiar a la actividad siguiente
-switch to previous activity=,,Cambiar a la actividad anterior
+switch to previous activity=Meta+A,,Cambiar a la actividad anterior
 toggle do not disturb=,,Conmutar no molestar
