@@ -1,9 +1,12 @@
 [activities]
-aba92453-2387-4856-bf27-1fba02f1ae6a=Temp
-df0550b7-8c38-4051-94b5-7464d9d8ebbd=Por omisión
+aba92453-2387-4856-bf27-1fba02f1ae6a=Principal
+c34ff9db-383b-4d4c-a2d1-0d9bdb710d82=Temporal
 
 [activities-icons]
 aba92453-2387-4856-bf27-1fba02f1ae6a=activities
+c34ff9db-383b-4d4c-a2d1-0d9bdb710d82=activities
 
 [main]
-currentActivity=df0550b7-8c38-4051-94b5-7464d9d8ebbd
+currentActivity=aba92453-2387-4856-bf27-1fba02f1ae6a
+runningActivities=aba92453-2387-4856-bf27-1fba02f1ae6a
+stoppedActivities=

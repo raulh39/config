@@ -4,3 +4,7 @@ AutoSuspendAction=0
 [Activities][aba92453-2387-4856-bf27-1fba02f1ae6a]
 InhibitScreenManagement=false
 InhibitSuspend=false
+
+[Activities][c34ff9db-383b-4d4c-a2d1-0d9bdb710d82]
+InhibitScreenManagement=false
+InhibitSuspend=false

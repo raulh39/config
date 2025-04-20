@@ -43,3 +43,7 @@ Code/User/workspaceStorage
 gwenviewrc
 okularrc
 kactivitymanagerd-pluginsrc
+VirtualBox
+Code/CachedConfigurations/defaults/configurationDefaultsOverrides
+session/kwin__
+VirtualBoxrc
