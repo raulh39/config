@@ -60,7 +60,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=55
+PreloadWeight=75
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -68,6 +68,7 @@ AppletOrder=3;4;5;6;7;21;22
 
 [Containments][27]
 ItemGeometries-2327x1309=
+ItemGeometries-2560x1440=
 ItemGeometriesHorizontal=
 activityId=aba92453-2387-4856-bf27-1fba02f1ae6a
 formfactor=0
@@ -82,9 +83,10 @@ DialogHeight=895
 DialogWidth=1214
 
 [Containments][27][General]
-positions={"2327x1309":[]}
+positions={"2327x1309":[],"2560x1440":[]}
 
 [Containments][27][Wallpaper][org.kde.slideshow][General]
+Image=file:///usr/share/wallpapers/OneStandsOut/
 SlidePaths=/usr/share/wallpapers/
 UncheckedSlides=/usr/share/wallpapers/Cascade/,/usr/share/wallpapers/Canopee/,/usr/share/wallpapers/Cluster/,/usr/share/wallpapers/ColorfulCups/,/usr/share/wallpapers/Elarun/,/usr/share/wallpapers/FlyingKonqui/,/usr/share/wallpapers/Honeywave/,/usr/share/wallpapers/IceCold/,/usr/share/wallpapers/Kay/,/usr/share/wallpapers/Kokkini/,/usr/share/wallpapers/Nexus/,/usr/share/wallpapers/Next/,/usr/share/wallpapers/Opal/,/usr/share/wallpapers/PastelHills/,/usr/share/wallpapers/Patak/,/usr/share/wallpapers/SafeLanding/,/usr/share/wallpapers/ScarletTree/,/usr/share/wallpapers/Shell/,/usr/share/wallpapers/Volna/,/usr/share/wallpapers/Flow/
 
@@ -98,7 +100,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][28][General]
-positions={"2327x1309":[]}
+positions={"2327x1309":[],"2560x1440":[]}
 
 [Containments][8]
 activityId=
@@ -130,6 +132,9 @@ PreloadWeight=65
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
+[Containments][8][Applets][13][Configuration]
+PreloadWeight=75
+
 [Containments][8][Applets][14]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
@@ -145,6 +150,9 @@ plugin=org.kde.plasma.manage-inputmethod
 [Containments][8][Applets][17]
 immutability=1
 plugin=org.kde.plasma.notifications
+
+[Containments][8][Applets][17][Configuration]
+PreloadWeight=70
 
 [Containments][8][Applets][18]
 immutability=1
@@ -170,21 +178,21 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][8][Applets][24][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][8][Applets][25]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][25][Configuration]
-PreloadWeight=52
+PreloadWeight=0
 
 [Containments][8][Applets][26]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][26][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][8][Applets][9]
 immutability=1

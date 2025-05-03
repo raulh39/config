@@ -1,7 +1,7 @@
 [ActivityManager]
-_k_friendly_name=System Settings
-switch-to-activity-aba92453-2387-4856-bf27-1fba02f1ae6a=,none,Switch to activity "Temp"
-switch-to-activity-c34ff9db-383b-4d4c-a2d1-0d9bdb710d82=,none,Switch to activity "Temporal"
+_k_friendly_name=Activity Manager
+switch-to-activity-aba92453-2387-4856-bf27-1fba02f1ae6a=none,none,Switch to activity "Principal"
+switch-to-activity-c34ff9db-383b-4d4c-a2d1-0d9bdb710d82=none,none,Switch to activity "Temporal"
 
 [KDE Keyboard Layout Switcher]
 Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Cambiar a la última distribución de teclado usada
@@ -246,7 +246,7 @@ cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
 cycleNextAction=none,,Next History Item
 cyclePrevAction=none,,Previous History Item
 manage activities=Meta+Q,Meta+Q,Show Activity Switcher
-next activity=,none,Walk through activities
+next activity=none,none,Walk through activities
 previous activity=Meta+Shift+A,none,Walk through activities (Reverse)
 repeat_action=none,,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop

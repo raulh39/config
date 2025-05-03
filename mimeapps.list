@@ -1,7 +1,7 @@
 [Added Associations]
-inode/directory=code.desktop;
+inode/directory=org.kde.dolphin.desktop;code.desktop;org.kde.gwenview.desktop;org.kde.filelight.desktop;org.kde.kate.desktop;
 
 [Default Applications]
 application/x-rpm=/usr/share/applications/nobara-rpm-installer.desktop
 application/x-src+rpm=/usr/share/applications/org.kde.ark.desktop
-inode/directory=code.desktop;
+inode/directory=org.kde.dolphin.desktop;

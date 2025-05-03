@@ -1,6 +1,6 @@
 [Activities][LastVirtualDesktop]
-aba92453-2387-4856-bf27-1fba02f1ae6a=5ba74a81-fbe6-420f-9dcd-18b5a451757f
-df0550b7-8c38-4051-94b5-7464d9d8ebbd=5ba74a81-fbe6-420f-9dcd-18b5a451757f
+aba92453-2387-4856-bf27-1fba02f1ae6a=b515e49a-3b3e-4b82-b74c-b6d022067bd2
+c34ff9db-383b-4d4c-a2d1-0d9bdb710d82=5ba74a81-fbe6-420f-9dcd-18b5a451757f
 ec54bb8b-9927-4b9c-87b2-d6d17fe4c133=623d8ad2-27e0-4a1d-99f3-137fdb6cc509
 
 [Desktops]
@@ -11,6 +11,10 @@ Id_4=bb4ca90b-4c19-4205-a409-dcea83db9950
 Number=4
 Rows=4
 
+[SubSession: df0550b7-8c38-4051-94b5-7464d9d8ebbd]
+active=-1
+count=0
+
 [Tiling]
 padding=4
 
@@ -18,4 +22,4 @@ padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Xwayland]
-Scale=1.1
+Scale=1

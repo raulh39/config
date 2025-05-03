@@ -6,7 +6,7 @@
     "bookmarks.sideBar.expanded": true,
     "C_Cpp.intelliSenseEngine": "disabled",
     "clangd.arguments": [
-        "--compile-commands-dir=${workspaceFolder}/../build",
+        // "--compile-commands-dir=${workspaceFolder}/../build",
         "--background-index"
     ],
     "clangd.checkUpdates": true,
